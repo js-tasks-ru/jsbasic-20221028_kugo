@@ -25,3 +25,4 @@ function sayHello() {
     print('Некорректное имя');
   }
 }
+
