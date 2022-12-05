@@ -1,3 +1,5 @@
 function makeFriendsList(friends) {
-  // ваш код...
+  let pages = document.querySelectorAll(`#page`);
+  let page__ul = document.querySelectorAll() ;
+  let page__li;
 }

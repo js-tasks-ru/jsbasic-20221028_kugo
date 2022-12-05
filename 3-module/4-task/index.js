@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 function showSalary(users, age) {
 
