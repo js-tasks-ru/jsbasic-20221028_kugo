@@ -4,6 +4,7 @@ let calculator = {
     this.b = b;
   },
   sum() {
+
     return this.a + this.b; 
   },
   mul() {
