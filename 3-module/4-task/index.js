@@ -15,3 +15,5 @@ function showSalary(users, age) {
   .map(item => `${item.name}, ${item.balance}`)
   .join('\n');
 }
+
+
